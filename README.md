@@ -15,6 +15,7 @@ Skills are grouped by input/output format:
 - **BPMN and images** — create workflows from BPMN diagrams or process images
 - **Meeting transcripts and recordings** — create workflows from meeting notes, transcripts, or call recordings
 - **Videos** — create workflows from screen recordings or video walkthroughs of a process (e.g. Loom, Zoom recordings, Scribe, MP4 screencasts, YouTube tutorials)
+- **Gap analysis** — You can optionally run this one first, before any builder skill. Ingests all available context (HubSpot, Gong, Gmail, web research, uploaded documents) and outputs a structured JSON brief that tells the downstream builder skills *what* to build and *why*: which workflows to demo, the business framing, and the technical requirements.
 
 ## Getting started
 
