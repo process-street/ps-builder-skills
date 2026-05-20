@@ -14,6 +14,7 @@ Skills are grouped by input/output format:
 - **Documents** — create workflows from (or export to) PDF, DOCX, XLSX, TXT, and CSV files
 - **BPMN and images** — create workflows from BPMN diagrams or process images
 - **Meeting transcripts and recordings** — create workflows from meeting notes, transcripts, or call recordings
+- **Videos** — create workflows from screen recordings or video walkthroughs of a process (e.g. Loom, Zoom recordings, Scribe, MP4 screencasts, YouTube tutorials)
 
 ## Getting started
 
