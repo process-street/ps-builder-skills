@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repo has been superseded by https://github.com/process-street/ps-skills.
+
 # ps-builder-skills
 
 A collection of skills that turn AI agents into Process Street builders. These skills enable agents to:
